@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'luffy'
+}
+item {
+    id: 2
+    name: 'chopper'
+}

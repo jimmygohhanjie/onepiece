@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img6.jpeg</filename>
+	<path>/Users/jimmygohhanjie/Desktop/NYP AIML/107/img/img6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>217</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>luffy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>25</ymin>
+			<xmax>166</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

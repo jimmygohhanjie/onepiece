@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img45.jpeg</filename>
+	<path>/Users/jimmygohhanjie/Desktop/NYP AIML/107/img/img45.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>179</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>61</ymin>
+			<xmax>131</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
