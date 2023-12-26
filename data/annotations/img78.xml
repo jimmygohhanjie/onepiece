@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img78.jpeg</filename>
+	<path>/Users/jimmygohhanjie/Desktop/NYP AIML/107/img/img78.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>luffy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>34</ymin>
+			<xmax>133</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>18</ymin>
+			<xmax>202</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

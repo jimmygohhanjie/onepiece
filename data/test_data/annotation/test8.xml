@@ -14,13 +14,13 @@
 	<object>
 		<name>chopper</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>61</xmin>
-			<ymin>25</ymin>
-			<xmax>160</xmax>
-			<ymax>159</ymax>
+			<ymin>27</ymin>
+			<xmax>151</xmax>
+			<ymax>108</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>161</xmin>
+			<xmin>160</xmin>
 			<ymin>1</ymin>
 			<xmax>227</xmax>
-			<ymax>67</ymax>
+			<ymax>65</ymax>
 		</bndbox>
 	</object>
 </annotation>
